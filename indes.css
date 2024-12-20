@@ -159,7 +159,7 @@ a:hover {
         justify-content: space-evenly;
     }
     .information-bar {
-        width: 34%;
+        width: 100%;
         margin-top: 5%;
         margin-left: 0%;
         background-color: rgba(0, 0, 0, 0.8);
@@ -175,7 +175,7 @@ a:hover {
         font-style: italic;
     }
     .reply-bar {
-        width: 32%;
+        width: 100%;
         margin-top: 5%;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
