@@ -160,7 +160,7 @@ a:hover {
     }
     .information-bar {
         width: 50%;
-        margin-top: 10%;
+        margin-top: 5%;
         margin-right: 10%;
         margin-left: 10%;
         background-color: rgba(0, 0, 0, 0.8);
@@ -171,12 +171,12 @@ a:hover {
         padding: 1rem;
     }
     .sub-text {
-        font-size: 1.5rem;
+        font-size: 0.8rem;
         text-align: center;
         font-style: italic;
     }
     .reply-bar {
-        width: 100%;
+        width: 70%;
         margin-top: 10%;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
@@ -191,10 +191,10 @@ a:hover {
         font-size: 1.5rem;
     }
     .main-text {
-        font-size: 2rem;
+        font-size: 1rem;
     }
     .very-main-text {
-        font-size: 3rem;
+        font-size: 1.5rem;
     }
     .button {
         margin-top: 6%;
@@ -206,7 +206,7 @@ a:hover {
         margin-left: 40%;
         margin-right: 40%;
         padding: 2%;
-        font-size: 2rem;
+        font-size: 1rem;
     }
     a:hover {
         background-color: rgb(50, 200, 250);
