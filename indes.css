@@ -160,8 +160,8 @@ a:hover {
     }
     .information-bar {
         width: 100%;
-        margin-top: 5%;
-        margin-left: 0%;
+        margin-top: 15%;
+        margin-left: 15%;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
         border-radius:5%;
@@ -177,6 +177,8 @@ a:hover {
     .reply-bar {
         width: 100%;
         margin-top: 5%;
+        margin-left: 15%;
+        margin-right: 15%;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
         border-radius:5%;
