@@ -159,52 +159,49 @@ a:hover {
         justify-content: space-evenly;
     }
     .information-bar {
-        width: 50%;
+        width: 34%;
         margin-top: 5%;
-        margin-right: 10%;
-        margin-left: 10%;
+        margin-left: 0%;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
         border-radius:5%;
         box-shadow: 0.3em 0.3em rgba(0, 0, 0, 0.1);
         text-align: center;
-        padding: 1rem;
+        padding: 0px;
     }
     .sub-text {
-        font-size: 0.8rem;
+        font-size: 10px;
         text-align: center;
         font-style: italic;
     }
     .reply-bar {
-        width: 70%;
-        margin-top: 10%;
+        width: 32%;
+        margin-top: 5%;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
         border-radius:5%;
         box-shadow: 0.3em 0.3em rgba(0, 0, 0, 0.1);
         text-align: center;
-        padding: 0.5rem;
-        padding-bottom: 1.5rem;
-        margin-bottom: 0.5rem;
+        font-size: 15px;
+    
     }
     .very-very-main-text {
-        font-size: 1.5rem;
+        font-size: 16px;
     }
     .main-text {
-        font-size: 1rem;
+        font-size: 13px;
     }
     .very-main-text {
-        font-size: 1.5rem;
+        font-size: 15px;
     }
     .button {
-        margin-top: 6%;
+        margin-top: 10%;
         margin-bottom: 3%;
     }
     a {
         color: rgb(50, 200, 250);
         background-color: rgb(255, 255, 255);
-        margin-left: 40%;
-        margin-right: 40%;
+        margin-left: 33%;
         padding: 2%;
         font-size: 1rem;
     }
