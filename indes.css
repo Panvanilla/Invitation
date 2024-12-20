@@ -1,0 +1,107 @@
+header {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+}
+body {
+    background-color: #F7F7F7;
+    color: black;
+    margin: 0;  
+}
+header, body {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+} 
+.main {
+    min-height: 100%;
+    min-width: 640px;
+    width: 100%;
+}
+.main-wrapper {
+    background-image: url(./Hotel_Thai.webp);
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.headline-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.icon {
+    width: 10%;
+    align-self: center;
+}
+.logo {
+    width: 100%;
+    align-self: center;
+  
+}
+.greeting-bar {
+    color: white;
+    align-self: center;
+    font-size: 4rem;
+}
+.information-bar-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.information-bar {
+    width: 50%;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    border-radius:5%;
+    box-shadow: 0.3em 0.3em rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 1rem;
+}
+.sub-text {
+    font-size: 1.5rem;
+    text-align: center;
+    font-style: italic;
+}
+.reply-bar {
+    width: 100%;
+    margin-top: 10%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    border-radius:5%;
+    box-shadow: 0.3em 0.3em rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 0.5rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+.very-very-main-text {
+    font-size: 7rem;
+}
+.main-text {
+    font-size: 2rem;
+}
+.very-main-text {
+    font-size: 3rem;
+}
+.button {
+    margin-top: 6%;
+    margin-bottom: 3%;
+}
+a {
+    color: rgb(50, 200, 250);
+    background-color: rgb(255, 255, 255);
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 2%;
+    font-size: 2rem;
+}
+a:hover {
+    background-color: rgb(50, 200, 250);
+    color: white;
+}
