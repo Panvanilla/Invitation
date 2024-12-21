@@ -87,6 +87,9 @@ header, body {
 .main-text {
     font-size: 2rem;
 }
+.main-text1 {
+    font-size: 2rem;
+}
 .very-main-text {
     font-size: 3rem;
 }
@@ -191,14 +194,15 @@ a:hover {
         font-size: 15px;
     
     }
-    .reply-bar .main-text {
-        padding-top: 5%;
-    }
     .very-very-main-text {
         font-size: 16px;
     }
     .main-text {
         font-size: 13px;
+    }
+    .main-text1 {
+        font-size: 13px;
+        padding-top: 5%;
     }
     .very-main-text {
         font-size: 15px;
