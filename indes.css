@@ -214,7 +214,6 @@ a:hover {
     a {
         color: rgb(50, 200, 250);
         background-color: rgb(255, 255, 255);
-        margin-left: 33%;
         padding: 2%;
         font-size: 1rem;
     }
