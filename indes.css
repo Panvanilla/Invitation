@@ -1,3 +1,10 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background: #ccc;
+    padding: 0;
+    margin: 0;
+  }
 header {
     background-color: black;
     padding-top: 10px;
@@ -13,11 +20,6 @@ header, body {
     text-align: center;
     font-family: 'Work Sans', sans-serif;
 } 
-.main {
-    min-height: 100%;
-    min-width: 640px;
-    width: 100%;
-}
 .main-wrapper {
     background-image: url(./Hotel_Thai.webp);
     background-size: cover;
@@ -76,7 +78,6 @@ header, body {
     border-radius:5%;
     box-shadow: 0.3em 0.3em rgba(0, 0, 0, 0.1);
     text-align: center;
-    padding: 0.5rem;
     padding-bottom: 1.5rem;
     margin-bottom: 0.5rem;
 }
@@ -106,6 +107,13 @@ a:hover {
     color: white;
 }
 @media only screen and (max-width: 768px) {
+    html, body {
+        width: 100%;
+        height: 100%;
+        background: #ccc;
+        padding: 0;
+        margin: 0;
+      }
     header {
         background-color: black;
         padding-top: 10px;
@@ -121,11 +129,6 @@ a:hover {
         text-align: center;
         font-family: 'Work Sans', sans-serif;
     } 
-    .main {
-        min-height: 100%;
-        min-width: 640px;
-        width: 100%;
-    }
     .main-wrapper {
         background-image: url(./Hotel_Thai.webp);
         background-size: cover;
