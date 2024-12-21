@@ -212,13 +212,13 @@ a:hover {
         margin-bottom: 3%;
     }
     a {
-        color: rgb(50, 200, 250);
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(50, 200, 250);
+        color: white;
         padding: 2%;
         font-size: 1rem;
     }
     a:hover {
-        background-color: rgb(50, 200, 250);
-        color: white;
+        color: rgb(50, 200, 250);
+        background-color: rgb(255, 255, 255);
     }
 }
